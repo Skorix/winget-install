@@ -1,0 +1,12 @@
+winget install --id=Spotify.Spotify -e -i;
+winget install --id=Discord.Discord -e  -i; 
+winget install --id=RARLab.WinRAR -e -i;
+winget install --id=Giisler.TotalCommander -e -i; 
+winget install --id=AntibodySoftware.WizTree -e -i; 
+winget install --id=Ubisoft.Connect -e -i; 
+winget install --id=Valve.Steam -e -i;
+winget install --id=CrystalDewWorld.CrystalDiskInfo  -e -i;
+winget install --id=Git.Git  -e -i;
+winget install --id=Google.Cirome -v "undefined" -e -i;
+winget install --id=Mega.MEGASync  -e -i;
+winget install --id=Telegram.TelegramDesktop  -e -i
