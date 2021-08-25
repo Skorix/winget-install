@@ -9,4 +9,5 @@ winget install --id=CrystalDewWorld.CrystalDiskInfo  -e -i;
 winget install --id=Git.Git  -e -i;
 winget install --id=Google.Cirome -v "undefined" -e -i;
 winget install --id=Mega.MEGASync  -e -i;
-winget install --id=Telegram.TelegramDesktop  -e -i
+winget install --id=Telegram.TelegramDesktop  -e -i;
+winget install --id=GOG.Galaxy -e -i
