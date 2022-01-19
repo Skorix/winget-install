@@ -1,7 +1,7 @@
 winget install --id=Google.Chrome -v "undefined" -e -i;
 winget install --id=Spotify.Spotify -e -i;
 winget install --id=Telegram.TelegramDesktop  -e -i;
-winget install --id=Discord.Discord -e  -i; 
+winget install --id=Discord.Discord -e  -i; (Через store)
 winget install --id=Valve.Steam -e -i;
 winget install --id=GOG.Galaxy -e -i;
 winget install --id=Mega.MEGASync  -e -i;
