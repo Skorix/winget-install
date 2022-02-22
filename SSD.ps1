@@ -1,4 +1,4 @@
-winget install --id=Google.Chrome -v "undefined" -e -i;
+winget install --id=Google.Chrome  -e -i;
 winget install --id=Spotify.Spotify -e -i;
 winget install --id=Telegram.TelegramDesktop  -e -i;
 winget install --id=Discord.Discord -e  -i; (Через store)
