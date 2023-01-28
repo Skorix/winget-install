@@ -10,3 +10,4 @@ winget install --id=Henry++.MemReduct  -e -h;
 winget install --id=OBSProject.OBSStudio  -e -h;
 winget install --id=Python.Python.3.12  -e -h;
 winget install --id=Nvidia.RTXVoice  -e -h;
+winget install --id=RARLab.WinRAR -e -i;
