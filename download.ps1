@@ -25,20 +25,3 @@ winget download --id=Microsoft.VisualStudioCode  -e;
 # winget download --id=QL-Win.QuickLook  -e;
 # winget download --id=Henry++.MemReduct  -e;
 # winget download --id=Python.Python.3.12  -e;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
