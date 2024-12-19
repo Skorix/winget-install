@@ -1851,6 +1851,12 @@
       "Name": "uTorrent Web",
       "Version": "1.4.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
+    },
+    {
+      "Id": "capslang",
+      "Name": "capslang",
+      "Version": "1.0",
+      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     }
   ]
 }
