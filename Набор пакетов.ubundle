@@ -1410,6 +1410,28 @@
       }
     },
     {
+      "Id": "Upscayl.Upscayl",
+      "Name": "Upscayl",
+      "Version": "2.11.5",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Valve.Steam",
       "Name": "Steam",
       "Version": "2.10.91.91",
@@ -1608,6 +1630,28 @@
       }
     },
     {
+      "Id": "fpsmonitor",
+      "Name": "Fpsmonitor",
+      "Version": "5472.00",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "lossless-cut",
       "Name": "Lossless Cut",
       "Version": "3.62.0",
@@ -1721,12 +1765,6 @@
   "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
   "incompatible_packages": [
     {
-      "Id": "2e801529-9c6a-5917-960e-278558728760",
-      "Name": "Upscayl 2.9.5",
-      "Version": "2.9.5",
-      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
-    },
-    {
       "Id": "38623ExtremeSleeper.123ImageViewerHD_2023.11.15.0_x64__2gsdpn732f8ba",
       "Name": "123 \u0424\u043E\u0442\u043E",
       "Version": "2023.11.15.0",
@@ -1739,15 +1777,21 @@
       "Source": "Microsoft Store"
     },
     {
+      "Id": "AmneziaVPN",
+      "Name": "AmneziaVPN",
+      "Version": "1.0",
+      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
+    },
+    {
       "Id": "Bloody3",
       "Name": "Bloody7",
       "Version": "22.06.0002",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
-      "Id": "FPS Monitor_is1",
-      "Name": "FPS Monitor",
-      "Version": "1",
+      "Id": "DaVinci Resolve",
+      "Name": "DaVinci Resolve",
+      "Version": "1.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
@@ -1757,15 +1801,21 @@
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
-      "Id": "Reg Organizer_is1",
-      "Name": "Reg Organizer, \u0432\u0435\u0440\u0441\u0438\u044F 8.70",
-      "Version": "8.70",
+      "Id": "NVIDIA ChatRTX",
+      "Name": "NVIDIA ChatRTX",
+      "Version": "1.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
       "Id": "VB:VBCABLE {87459874-1236-4469}",
       "Name": "VBCABLE, The Virtual Audio Cable",
       "Version": "Unknown",
+      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
+    },
+    {
+      "Id": "WO Mic Client",
+      "Name": "WO Mic Client",
+      "Version": "1.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
