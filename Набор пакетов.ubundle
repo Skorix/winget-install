@@ -112,6 +112,28 @@
       }
     },
     {
+      "Id": "Blinue.Magpie",
+      "Name": "Magpie",
+      "Version": "0.11.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "ByteDance.CapCut",
       "Name": "CapCut",
       "Version": "5.1.0.1897",
