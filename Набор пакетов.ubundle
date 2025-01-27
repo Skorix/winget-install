@@ -1841,6 +1841,12 @@
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     },
     {
+      "Id": "capslang",
+      "Name": "capslang",
+      "Version": "1.0",
+      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
+    },
+    {
       "Id": "cfba0811-22d2-5997-babc-65effa128d91",
       "Name": "Meisunry 1.1.1",
       "Version": "1.1.1",
@@ -1850,12 +1856,6 @@
       "Id": "utweb",
       "Name": "uTorrent Web",
       "Version": "1.4.0",
-      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
-    },
-    {
-      "Id": "capslang",
-      "Name": "capslang",
-      "Version": "1.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     }
   ]
