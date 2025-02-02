@@ -1857,6 +1857,12 @@
       "Name": "uTorrent Web",
       "Version": "1.4.0",
       "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
+    },
+    {
+      "Id": "dlss-swapper",
+      "Name": "dlss-swapper",
+      "Version": "1.0",
+      "Source": "\u042D\u0442\u043E\u0442 \u041F\u041A"
     }
   ]
 }
